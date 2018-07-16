@@ -1,0 +1,63 @@
+/* CSS Document */
+.site-info-w {
+	border-top: 3px solid #3aa2a2;
+	background: #efeff3;
+	padding-bottom: 30px;
+	_height: 100px;
+	clear: both
+}
+.site-info {
+	margin: 0 auto;
+	width: 980px;
+	font-size: 12px;
+	clear: both
+}
+.site-info__item {
+	float: left;
+	border-left: 1px dotted #a5a5a5;
+	border-right: 1px dotted #f7f7f7;
+	padding: 25px 0 0 25px;
+	width: 161px;
+	height: 160px
+}
+.site-info__item h3 {
+	font-weight:bold;
+	margin-bottom: 8px;
+	font-size: 14px;
+	color: #1C1C1C;
+}
+.site-info__item ul {
+	padding-left: 16px;
+	line-height: 1.9;
+	color: #444;
+}
+.site-info__item li {
+	list-style: outside disc
+}
+.site-info__item a {
+	color: #444 !important;
+}
+.site-info__item--service {
+	border-right-color: #a5a5a5;
+	padding-right: 25px;
+	width: 176px;
+	font-family: 'Microsoft Yahei', Helvetica, arial, sans-serif;
+	color: #444
+}
+.site-info__item--service .contact-info {
+	margin-top: 15px
+}
+.copyright {
+	padding: 30px 0 10px 0;
+	clear: both;
+	color: #999;
+	text-align: center;
+	font-size: 12px
+}
+.site-info-w--mini .copyright {
+	padding: 0;
+	text-align: left
+}
+.copyright a {
+	color: #999
+}

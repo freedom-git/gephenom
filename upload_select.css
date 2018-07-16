@@ -1,0 +1,109 @@
+/* CSS Document */
+
+#frame {
+	height:auto;
+	padding-bottom:80px;
+	background-color:#efeff3;
+	padding-top:20px;
+	width:auto;
+}
+
+#page {
+
+	height:600px;
+	background-color:#f6f6f6;
+	margin-left:auto;
+	margin-right:auto;
+	width:1060px;
+	overflow:auto;
+	
+}
+
+.top_container{
+	width:1060px;
+	height:20px;
+	
+
+}
+
+.ruhe_container{
+	width:1060px;
+	height:190px;
+	
+
+}
+
+.gudience{
+	width:600px;
+	margin:60px auto 20px auto;
+	background-color:#f6f6f6;
+	text-align:center;
+	padding-bottom:20px;
+}
+
+
+.gudience:hover{
+	background-color:#fff;
+}
+
+.mid_container{
+	width:1060px;
+	height:230px;
+}
+
+.mid_share{
+	width:250px;
+	height:230px;
+	float:left;
+	
+	
+}
+
+
+.img_container{
+	position:relative;
+	left:50px;
+	top:0px;
+}
+
+.mid_share img{
+	position:absolute;
+}
+
+.mid_a,.mid_b,.mid_c{
+	margin-right:20px;
+}
+.mid_a{
+	margin-left:135px;
+	
+}
+
+.mid_d{
+	margin-left:405px;
+}
+
+.text_container{
+	width:250px;
+	height:140px;
+	background-color:#FFF;
+	margin-top:80px;
+	text-align:center;
+}
+
+
+.text_title{
+	padding-top:80px;
+	width:auto;
+	height:auto;
+	font-weight:600;
+	font-size:22px;
+	letter-spacing:3px;
+	color:#6C6C6C;
+}
+
+
+.biaoyu{
+	font-size:35px;
+	color:#9E9E9E;
+	letter-spacing:25px;
+}

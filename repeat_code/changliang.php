@@ -1,0 +1,3 @@
+<?php
+$yonghuzhucebiao='user';
+?>

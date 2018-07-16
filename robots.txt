@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin_check/
+Disallow: /youku_uploader/
+Disallow: /zfb/
+Disallow: /uploadify/
+Disallow: /tools/
+Disallow: /Scripts/
+Disallow: /repeat_code/
+Disallow: /phpmyadmin/
+Disallow: /phpmailer/
+Disallow: /js/
+Disallow: /image/
+Disallow: /font/
+Disallow: /css/
+Disallow: /textbook_picture/
+Disallow: /404/
+Sitemap: http://www.gephenom.com/sitemap.txt

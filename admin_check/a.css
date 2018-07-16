@@ -1,0 +1,17 @@
+/* CSS Document */
+a:link{
+	color: #000;
+	text-decoration:none;
+}
+a:visited {
+	color:#000;
+	text-decoration:none;
+}
+a:link:hover {
+	color:#F3461B;
+	text-decoration:underline;
+}
+a:visited:hover {
+	color:#F3461B;
+	text-decoration:underline;
+}

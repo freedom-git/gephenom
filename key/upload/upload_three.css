@@ -1,0 +1,36 @@
+#frame {
+	height:auto;
+	padding-bottom:50px;
+	background-color:#efeff3;
+	padding-top:20px;
+}
+#page {
+	height:auto;
+	background-color:#F6F6F6;
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+}
+.tell {
+	background-color:#efeff3;
+	color:#22cacc;
+	text-align:center;
+}
+.tell1 {
+	padding-top:30px;
+	font-size:35px;
+}
+.tell2 {
+	color:#22cacc;
+	padding-top:18px;
+	padding-bottom:25px;
+}
+a:link{
+	color:#22cacc;
+}
+a:link:hover {
+	color:#16E4A2;
+}
+a:visited{
+	color:#22cacc;
+}

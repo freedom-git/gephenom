@@ -1,0 +1,172 @@
+
+
+
+
+
+#page{
+	margin:0 auto;
+	padding-top:10px;
+	height:auto;
+	padding-bottom:50px;
+	background-color:#efeff3;
+	
+}
+
+
+
+
+
+.display_container{
+	margin:20px auto;
+	width:1060px;
+	height:1200px;
+	background-color:#fff;
+	overflow:auto;
+	padding-bottom:50px;
+	
+}
+
+
+#display_container_show{
+	margin-top:25px;
+	height:628px;
+	width:900px;
+	margin-left:130px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+
+}
+
+.display_information{
+	padding:20px 20px 0 20px;
+}
+.display_information h1{
+	color:#0ea5ed;
+	font-size:36px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.display_information h4{
+	color:#0ea5ed;
+}
+
+.display_information a{
+	color:#0ea5ed;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.display_information a:hover{
+	color:#3497e5;
+
+}
+
+
+
+/*发表评论*/
+
+
+.display_comment{
+	text-align:center;
+	width:770px;
+	height:300px;
+	margin-left:145px;
+	margin-top:50px;
+	float:left;
+	
+}
+
+
+.display_ads{
+	color:#FFF;
+	width:80px;
+	padding:7px 20px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#0ea5ed;
+	margin-top:50px;
+	margin-left:465px;
+	border:1px solid #0ea5ed;
+}
+.display_ads a{
+	color:#FFF;
+}
+
+.display_comment_tittle{
+	width:auto;
+	font-size:18px;
+	padding:10px;
+	background-color:#f7f7f7;
+	color:#9a9a9a;
+}
+
+.comment_score{
+	margin-top:20px;
+	margin-left:10px;
+	color:#5D5D5D;
+	width:auto;
+}
+
+.comment_table{
+	float:left;
+	font-weight:700;
+}
+
+.comment_area{
+	width:650px;
+	height:180px;
+	border:none;
+	padding:7px 10px;
+	resize: none;
+	margin-top:10px;
+	margin-left:10px;
+    font-size:16px;
+	border:2px solid #dcdbdb;
+}
+
+.comment_submit{
+	padding:7px 20px;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	background-color:#0ea5ed;
+	color:#fff;
+	margin-top:30px;
+	margin-left:0px;
+	border:1px solid #0ea5ed;
+}
+.comment_submit:hover{
+	background-color:#0b71c0;
+}
+#player {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:25px;
+	width:800px;
+	height:600px;
+	text-align:center;
+}
+#title {
+	margin-top:40px;
+	text-align:center;
+	width:1000px;
+	height:auto;
+}
+.criticism {
+	margin-top:25px;
+	color:#5D5D5D;
+	height:200px;
+}
+#youkuplayer {
+	margin-top:25px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.times {
+	float:right;
+}
+.class {
+	float:left;
+}

@@ -1,0 +1,43 @@
+/* CSS Document */
+
+.login_one{
+	height:100px;
+	width:1060px;
+
+	margin:100px auto 0 auto;
+}
+.logo_container{
+	width:96px;
+	height:61px;
+	margin-left:20px;
+}
+
+.login_two{
+	height:400px;
+	width:960px;
+	margin:0 auto 250px auto;
+}
+
+.login_two_left{
+	height:400px;
+	width:460px;
+	float:left;
+	
+	
+	
+}
+
+.login_box_container{
+	height:400px;
+	width:360px;
+	margin-left:50px;	
+}
+
+.login_box{
+	height:auto;
+	width:auto;
+	margin-left:560px;
+	
+		
+}
+

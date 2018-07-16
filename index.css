@@ -1,0 +1,112 @@
+/* CSS Document */
+
+.frame{
+	background-color:#efeff3;
+	background-repeat:repeat;
+	
+}
+
+.page{
+	width:1060px;
+	height:auto;
+	padding:30px 0px 100px 0;
+	margin:0px auto;
+	background-color:#efeff3;
+
+}
+
+
+.top_container{
+	width:600px;
+	height:auto;
+	margin:30px auto ;
+	text-align:center;
+	padding:30px 0;
+}
+
+.biaoyu{
+	font-size:45px;
+	color:#969696;
+	letter-spacing:2px;
+}
+
+.mid_container{
+	width:1060px;
+	height:350px;
+}
+
+.mid_share{
+	width:250px;
+	height:350px;
+	float:left;
+	
+}
+
+
+.img_container{
+	position:relative;
+	left:50px;
+	top:0px;
+}
+
+.mid_share img{
+	position:absolute;
+}
+
+.mid_a,.mid_b,.mid_c{
+	margin-right:20px;
+}
+
+
+.text_container{
+	width:250px;
+	height:230px;
+	background-color:#FFF;
+	margin-top:80px;
+	text-align:center;
+}
+
+
+.text_title{
+	padding-top:80px;
+	width:auto;
+	height:auto;
+	font-weight:600;
+	font-size:22px;
+	letter-spacing:3px;
+	color:#6C6C6C;
+}
+
+
+
+.bottom_container{
+	width:600px;
+height:auto;
+	margin:30px auto ;
+	text-align:center;
+	padding:30px 0;
+	
+}
+
+
+
+
+.img_container :hover{ 
+-moz-transition:  0.7s ease-in-out;
+-webkit-transition:  0.7s ease-in-out;
+-o-transition:  0.7s ease-in-out;
+-ms-transition:  0.7s ease-in-out;
+transition:  0.7s ease-in-out;
+-moz-transform: rotate(-360deg);
+-webkit-transform: rotate(-360deg);
+-o-transform: rotate(-360deg);
+-ms-transform: rotate(-360deg);
+transform: rotate(-360deg);
+
+} 
+
+.test{
+	margin-top:30px;
+	font-size:18px;
+	color:#6C6C6C;
+}

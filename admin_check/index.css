@@ -1,0 +1,85 @@
+/* CSS Document */
+body {
+	background-color:#EBEBEB;
+}
+#frame {
+	margin-left:auto;
+	margin-right:auto;
+}
+#page {
+	height:auto;
+	width:500px;
+	margin:auto;
+	background-color:#EBEBEB;
+}
+.la {
+	margin-right:15px;
+}
+#img {
+	margin-left:30px;
+	border:hidden;
+	vertical-align:middle;
+}
+h1 {
+	margin:0px 0px 40px 60px;
+	font-size:50px !important;
+	color:#333;
+}
+h1.denglu {
+	margin-left:100px;
+}
+form.form1 {
+	margin-left:60px;
+}
+input.submit {
+	padding:2%;
+	color:#FFF;
+	font-weight:bold;
+	border: #979797 thin solid;
+	font-size:18px;
+	background-color:#F63;
+	margin-top:60px;
+	margin-left:215px;
+}
+.mima {
+	margin-top:30px;
+}
+.dc1 {
+	margin-bottom:50px;
+}
+.d_11 {
+	width:520px;
+}
+.d_11 {
+	height:450px;
+	margin-right:20px;
+	padding-top:140px;
+}
+.d_12 {
+	background-color:#ccc;
+	height:600px;
+}
+.zhanghao {
+	margin-top:30px;
+}
+.phone_number{
+	margin-right:20px;
+}
+.email {
+	margin-right:20px;
+}
+.check_number {
+	margin-top:30px;
+}
+/*输入框*/
+input.text {
+	border: #979797 thin solid;
+	width:200px;
+	vertical-align:middle;
+	font-size:18px;
+	padding:10px;
+	padding-left:5px !important;	
+}
+input:focus {
+	border: #090000 solid thin;
+}

@@ -1,0 +1,1063 @@
+/* CSS Document */
+
+
+#page{
+	margin:0 auto;
+	height:auto;
+	background-color:#efeff3;
+	padding-bottom:50px;
+	
+}
+
+.container{
+	width:1060px;
+	height:auto;
+	background-color:#FFF;
+	margin:0 auto;
+	overflow:auto;
+	padding-bottom:20px;
+}
+
+
+/*personal_nav*/
+
+
+.personal_nav{
+	width:1060px;
+	margin:0 auto;
+	padding:5px 0px;
+}
+
+.personal_nav_ul{
+	list-style:none;
+	width:auto;
+	text-align:center;
+	height:32px;
+}
+
+
+.personal_nav_ul li{
+	float:left;
+	padding:10px 20px;
+	font-size:12px;
+}
+
+
+.personal_nav_ul li a{
+	color:#676d71;
+}
+
+.personal_nav_ul li a:hover{
+	color:#000;
+}
+
+.li_focus{
+	background-color:#fff;
+}
+
+
+/*personal_left*/
+
+
+.personal_left{
+	width:22%;
+	height:auto;
+	margin-right:1%;
+	float:left;
+}
+
+
+.personal_right{
+	width:77%;
+	height:autopx;
+	float:right;
+}
+
+
+
+/*loading*/
+
+.loading{
+	width:0%;
+	height:1000px;
+	padding:17% 45%;
+	background-color:#fff;
+}
+
+/*select*/
+
+.left_select{
+	background-color:#f9f9f9;
+	height:500px;
+	border:1px solid #dcdbdb;
+	margin-left:10px;
+	
+}
+
+.left_select h1{
+	width:auto;
+	padding:10px 20px;
+	font-weight:500;
+	font-size:18px;
+	border-top:2px solid #f9f9f9;
+	
+}
+
+.left_select h1:hover{
+	background-color:#eeeeee;
+	border-top:2px solid #02daaf;
+}
+
+.tow_p{
+	padding:8px 35px;
+	font-weight:500;
+	font-size:14px;
+	border-left:4px solid #f9f9f9;
+}
+
+.tow_p:hover{
+	background-color:#eeeeee;
+	border-left:4px solid #02daaf;
+}
+
+.tow_p_focus{
+	background-color:#eeeeee;
+	border-left:4px solid  #02daaf ;
+}
+
+
+/*buy_video*/
+
+.buy_video{
+	width:auto;
+	border:1px solid #dcdbdb;
+	margin-top:10px;
+	margin-right:10px;
+	padding-bottom:10px;
+}
+
+.buy_video_tittle{
+	width:auto;
+	height:40px;
+	font-size:28px;
+	font-weight:400;
+	margin:20px 20px;
+	border-bottom:2px solid #0CC;
+}
+
+/*search*/
+
+.search_p{
+	float:left;
+	font-size:15px;
+	padding:12px;
+	
+}
+
+.buy_video_search{
+	margin:10px auto;
+	width:auto;
+	padding:10px 50px;
+}
+
+.search_box{
+	border:2px solid #02daaf ;
+	padding:5px;
+	font-size:15px;
+	width:400px;
+}
+
+.search_box:focus{
+	border:2px solid #0CC;
+}
+
+
+.button_12{
+	width:90px;
+	height:30px;
+	background-color:#02daaf;
+	border:none;
+	font-size:18px;
+	font-weight:bold;
+	color:#ffffff;
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.button_12:hover{
+	background-color:#0CC;
+}
+
+
+.search_res1{
+	font-size:14px;
+	color:#999;
+	float:left;
+	padding:20px 0 0 0;
+}
+
+.search_res2{
+	font-size:14px;
+	color:#fd6c00;
+	float:left;
+	padding:20px 0 0 0;
+}
+
+.res_left{
+	margin-left:20px;
+}
+
+/*呈现*/
+
+
+.buy_video_ul{
+	height:35px;
+	width:96%;
+	background-color:#efeff3;
+	margin-top:60px;
+	margin-left:2%;
+	list-style:none;
+	padding:15px 0;
+}
+
+.video_li{
+	float:left;
+	text-align:center;
+	margin-left:20px;
+	background-color:#fff;
+	padding:10px 0;
+	color:#666666;
+	font-weight:bold;
+}
+
+
+.video_1{
+	width:200px;
+}
+
+.video_2{
+	width:100px;
+}
+
+.video_3{
+	width:130px;
+}
+
+.video_4{
+	width:100px;
+}
+
+.video_5{
+	width:120px;
+}
+
+
+
+
+/*infor*/
+
+.video_infor_container{
+	width:96%;
+	height:auto;
+	margin-left:2%;
+	margin-top:10px;
+}
+
+
+.infor_content{
+	height:auto;
+	overflow:auto;
+	border-bottom:1px solid #dcdbdb;
+}
+
+.infor_con{
+	margin-left:20px;
+	float:left;
+	padding:10px 0;
+	height:auto;
+}
+
+.infor_mingzi{
+	width:200px;
+	padding:10px 0;
+}
+
+.infor_mingzi p{
+	margin-bottom:5px;
+}
+
+.font_1a{
+	color:#0ea5ed;
+	text-decoration:underline;
+	line-height:130%;
+}
+
+.font_1a:hover{
+	color:#fd6c00;
+	text-decoration:underline;
+}
+
+.font_1{
+	color:#666666;
+	font-size:14px;
+}
+
+.infor_zhuanti{
+	width:100px;
+}
+
+.infor_zhuanti p{
+	width:100px;
+	text-align:center;
+	padding:30px 0px;
+	color:#666666;
+	font-size:18px;
+}
+
+.infor_zuozhe{
+	width:130px;
+}
+
+.infor_zuozhe p{
+	width:130px;
+	text-align:center;
+	padding:30px 0px;
+	color:#666666;
+	font-size:18px;
+}
+
+.font_2a{
+	color:#666666;
+	font-size:18px;
+}
+
+.font_2a:hover{
+	color:#000;
+	text-decoration:underline;
+}
+
+.infor_jiage{
+	width:100px;
+}
+
+.infor_jiage p{
+	width:100px;
+	text-align:center;
+	padding:30px 0px;
+	color:#666666;
+}
+
+.infor_shijian{
+	width:120px;
+}
+
+
+.infor_shijian p{
+	width:120px;
+	text-align:center;
+	padding:30px 0px;
+	color:#fd6c00;
+}
+
+
+/*welcome*/
+
+.left_welcome{
+	border:1px solid #dcdbdb;
+	height:200px;
+	margin:10px 0 10px 10px;
+	background-color:#f9f9f9;
+}
+
+.welcome_top{
+	width:90%;
+	padding:5%;
+}
+
+.welcome_top img{
+	float:left;
+}
+
+.weclome_infor{
+	width:65%;
+	height:70px;
+	margin-left:70px;
+}
+
+.nam{
+    margin-left:15px;
+}
+
+.weclome_infor p{
+	line-height:120%;
+}
+
+
+/*personal_right*/
+
+
+.right_count{
+	width:auto;
+	border:2px solid #dcdbdb;
+	margin-top:10px;
+	margin-right:10px;
+	padding-bottom:10px;
+	height:auto;
+	overflow:auto;
+}
+
+.count_top{
+	width:auto;
+	border-bottom:1px solid #f0eeee;
+}
+
+
+
+.count_a{
+	width:68%;
+	height:110px;
+	margin:10px 0;
+	float:left;
+	border-bottom:1px solid #f0eeee;
+	
+}
+.count_xian{
+	width:1%;
+	height:110px;
+	margin:65px 0;
+	border-left:1px solid #f0eeee;
+	float:left;
+	
+}
+
+
+.shengyu{
+	width:auto;
+	height:110px;
+	padding-top:10px;
+}
+
+.shengyu_fon1{
+	margin-left:20px;
+	font-weight:900;
+	color:#666;
+}
+
+.shengyu_fon2{
+	font-size:40px;
+	font-weight:500;
+	color:#4c4c4c;
+	margin-left:20px;
+	margin-top:10px;
+	margin-right:10px;
+	float:left;
+}
+
+.shengyu_fon3{
+	font-size:14px;
+	margin-top:30px;
+	color:#808080;
+	float:left;
+}
+
+.chongzhi{
+	padding:7px 20px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#fd6c00 ;
+	color:#fff;
+	margin-top:14px;
+	margin-left:30px;
+	border:1px solid #fd6c00;
+}
+.chongzhi:hover{
+	background-color:#f98600;
+}
+
+.tixian{
+	padding:7px 20px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#f3f3f3;
+	color:#666;
+	margin-top:14px;
+	margin-left:10px;
+	border:1px solid #afafaf;
+}
+
+.tixian:hover{
+	background-color:#fcfbfb;
+}
+
+
+.count_b{
+	width:29%;
+	height:300px;
+	float:left;
+}
+
+.b_con{
+	width:auto;
+	height:80px;
+}
+
+.count_font1{
+	margin-left:20px;
+	margin-top:25px;
+	font-weight:900;
+	color:#666;
+	
+}
+
+.count_font2{
+	font-size:30px;
+	font-weight:500;
+	color:#4c4c4c;
+	margin-left:20px;
+	margin-top:10px;
+	margin-right:10px;
+	float:left;
+}
+
+.count_font3{
+	font-size:14px;
+	color:#808080;
+	float:left;
+	margin-top:23px;
+}
+
+.count_font4{
+	margin-left:20px;
+	margin-top:30px !important;
+	font-weight:900;
+	color:#666;
+	clear:both;
+}
+
+.mingxi{
+	padding:7px 20px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#f3f3f3;
+	color:#666;
+	margin-top:14px;
+	margin-left:20px;
+	border:1px solid #afafaf;
+}
+
+.mingxi:hover{
+	background-color:#fcfbfb;
+}
+
+
+/*pingfen*/
+
+
+.pingfen ul{
+	width:auto;
+	padding:8px;
+	height:auto;
+	overflow:auto;
+	background-color:#efeff3;
+	padding-left:120px;
+	margin:0 10px;
+}
+
+.pingfen li{
+	float:left;
+	padding:5px 20px;
+	background-color:#fff;
+	margin-left:15px;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	color:#666666;
+}
+
+.pingfen1{
+	width:100px;
+}
+
+
+/*account*/
+
+.account_tittle{
+	font-size:22px;
+	padding:20px 20px;
+}
+
+
+.account_infor{
+	font-size:14px;
+	padding-left:40px;
+	padding-bottom:10px;
+}
+
+.my_account{
+	border-bottom:2px solid #efeff3;
+	width:720px;
+	margin-left:30px;
+	padding-bottom:10px;
+}
+
+
+/*base*/
+
+
+.base{
+	width:99%;
+	height:1000px;
+	border:1px solid #dcdbdb;
+	margin-top:10px;
+	margin-right:5px;
+}
+
+.base_tittle{
+	width:auto;
+	height:auto;
+}
+
+.base_tittle p{
+	margin:30px 20px;
+	border-bottom:1px solid #02daaf;
+	padding-bottom:20px;
+	font-size:24px;
+}
+
+.base_infor_container{
+	width:100%;
+	height:600px;
+	margin-top:20px;
+}
+
+.left_label{
+	width:140px;
+	padding:10px;
+	text-align:right;
+	height:auto;
+	display:block;
+	color:#808080;
+	float:left;
+}
+
+
+.left_3_inp{
+	margin-top:12px;
+}
+
+.base_content{
+	margin-bottom:20px;
+	clear:both;
+}
+
+.left_2_inp{
+	width:160px;
+	padding:5px;
+	border:1px solid #dcdbdb;
+	font-size:16px;
+}
+
+.left_2_inp:focus{
+	border:1px solid #02daaf;
+	
+}
+
+.left_4_area{
+	width:400px;
+	height:180px;
+	border:none;
+	padding:17px 15px;
+	resize: none;
+	-moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+	font-size:16px;
+	border:1px solid #dcdbdb;
+}
+
+.left_4_area:focus{
+	border:1px solid #02daaf;
+	
+}
+
+/*表格*/
+.table {
+	margin-left:15px;
+
+	/*background-color:#093;*/
+}
+.column_1 {
+	width:150px;
+	text-align:center;
+	font-size:14px;
+	font-weight:600;
+	color:#787878;
+}
+table td {
+	padding:1.2%;
+	text-align:right;
+}
+.table_1{
+	font-size:16px;
+	font-weight:600;
+	color:#FFF;
+	background-color:#F93;
+}
+.table_01 {
+	width:110px;
+	background-color:#F93;
+}
+.table_2{
+	background-color:#EBEBEB;
+}
+.table_02 {
+	background-color:#EBEBEB;
+}
+.table_3 {
+	background-color:#E0E0E0;
+}
+.table_03 {
+	background-color:#E0E0E0;
+}
+.welcome_top{
+	padding:5%;
+}
+
+.welcome_middle {
+	margin-top:10px;
+	text-align:center;
+}
+.welcome_bottom {
+	margin-top:30px;
+
+}
+.mor{
+	font-size:18px;
+	font-weight:600;
+	color:#FFF;
+	padding:5%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	width:50px;
+	background-color:#F93;
+}
+.mor:hover{
+	background-color:#F8C018;
+}
+
+.nam{
+	font-size:24px;
+	text-align:center;
+}
+.forget {
+	color:#000;
+}
+	
+	
+/*funds*/
+.chongzhi_container{
+	width:auto;
+	border:1px solid #dcdbdb;
+	margin-top:10px;
+	margin-right:10px;
+	padding-bottom:10px;
+	height:400px;
+}
+
+
+.funds_sel{
+	width:auto;
+	height:200px;
+	background-color:#f4f6fd;
+	margin-top:80px;
+}
+.ui-fm-label-reset{
+	margin-top:20px;
+}
+.ui-form .ui-fm-item{padding-bottom:8px;padding-left:143px;padding-top:20px;}
+.cashier-box,.cashier-channel-box{border:3px solid #bcccee;padding:20px;_zoom:1}
+.cashier-box{padding:0}
+.ui-fm-item select{vertical-align:middle;padding:4px 3px;_padding:0;_margin:4px 0 0}
+.ui-fm-status{color:#20b907;background:url(https://i.alipayobjects.com/e/201310/1LAD6yhIFx.gif) right bottom no-repeat;padding-right:15px}
+.ui-fm-status-loading{color:#20b907;padding-right:15px}
+.ui-fm-list{_float:left;_width:100%}
+.ui-fm-item .ui-input{font-size:12px;*font-size:11px;_font-size:12px;color:#000;vertical-align:middle;*vertical-align:-5px}
+.ui-fm-item .ui-button-group .ui-button-text-only{margin:3px 0 0;margin:2px 0 0\0}
+.ui-fm-item .ui-button-text-only .ui-button-text{padding:.1em .5em}
+.ui-fm-item .ui-button-checkboxes .ui-state-selected{padding-right:2px;background:url(https://i.alipayobjects.com/e/201310/1LADmIr4RJ.png) right bottom no-repeat}
+.ui-fm-label-extend{position:relative;top:8px}
+.ui-fm-label{float:left;width:170px;margin-left:-170px;padding-top:3px;*padding-top:4px;text-align:right;font-size:14px}
+.ui-fm-label-reset{padding-top:0}
+.ui-fm-label-kj{float:left;font-size:14px;padding-top:3px;border:medium none!important;width:140px;padding-top:0;margin:-7px 0 0 -155px}
+.ui-fm-label-kj .icon{background-position:right 0!important}
+.ui-fm-label{margin-left:-178px}
+
+.ui-fm-row,.ui-item-payment .ui-fm-account-row{border-bottom:#febf90 dashed 1px}
+.ui-fm-row .ui-fm-col-first{width:100%}
+.ui-fm-account-row .ui-fm-col-first{width:380px}
+.bank-favorable .ui-bg{background-color:#fa3;color:#fff;padding:2px;margin:0 5px 0 10px}
+.bank-favorable .ui-fm-row{padding:10px;margin-bottom:0}
+.bank-favorable .ui-highlight{background-color:#fffdf2}
+.ui-fm-row .ui-notice{position:static}
+.ui-bg-calculate{background:url("https://i.alipayobjects.com/e/201212/1l3PkzGWoW.png") no-repeat 0 -96px;cursor:pointer;display:inline-block;height:24px;width:79px;position:relative;top:6px;margin-left:15px}
+#J-use-quickpoint,#J-installment-check{vertical-align:middle}
+.p-first{padding-bottom:15px}
+.p-second{padding-bottom:5px;border-bottom:1px dashed #ccc}
+.p-last{padding-top:5px;color:#5f5f5f}
+.fundbill-bank-content .ui-tip-info{position:relative;margin-left:10px}
+.ui-tip-info{zoom:1}
+.ui-tip-trigger-kuaijie{height:36px;width:75px;display:inline-block;text-indent:-9999px;background:url(https://i.alipayobjects.com/combo.png?d=cashier&t=KuaiIcon) no-repeat 0 0}
+.ui-paymount-area{line-height:36px}
+.cashier-channel-box .ui-fm-row .ui-fm-col-first{width:380px}
+.ui-card-explain{line-height:36px;margin:0 15px}
+label.ui-fenqi-label{font-size:14px;left:-75px;position:absolute;top:12px}
+.ui-mr-5{margin-right:5px}
+.fundbill-bank-content .ui-fm-row,.fundbill-bank-content .ui-fm-account-row{margin-bottom:0;padding-bottom:14px}
+.ui-fm-account-row{border-bottom:1px dashed #ddd;height:40px;line-height:34px;margin-bottom:16px}
+.fundbill-bank-content .ui-fm-col-first{margin-top:0!important}
+div.ui-dialog{z-index:2000}
+.ui-fm-row{border-bottom:1px dashed #ddd;padding-bottom:10px;margin-bottom:20px}
+.ui-fm-col,.ui-fm-col-first{display:inline-block;*display:inline;zoom:1}
+.ui-fm-row .ui-fm-col-first{width:280px;vertical-align:middle;_margin-top:10px}
+.ui-fm-row:after,ui-fm-row-first:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}
+.ui-fm-row,.ui-fm-row-first{*zoom:1}
+.ui-fm-row{margin-bottom:0}
+.cashier-bank .icon,.cashier-bank-kt .icon,.cashier-credit .icon,.cashier-credit-kt .icon,.cashier-bank-fq .icon,.cashier-bank-qy .icon,.cashier-bank-um .icon,.cashier-bank-kj .icon,.cashier-bank-kj-NO .icon{height:36px}
+.bank-icon-fix{margin-top:9px;padding-bottom:10px}
+.icon-box em{font-weight:normal}
+.cashier-bank-kt .icon-box,.cashier-credit-kt .icon-box{border-color:#ddd;background:#eee}
+.cashier-bank-fq .icon-box,.cashier-bank-qy .icon-box{border-right:0}
+.cashier-bank-um .icon-box{border:0}
+.cashier-bank-desc{color:#999;font-weight:normal;padding:4px 0 15px 0}
+.cashier-bank-fq .icon-info,.cashier-bank-qy .icon-info,.cashier-bank-kj .icon-info,.cashier-bank-kj-NO .icon-info,.cashier-bank .icon-info{background-color:#d2eef7;border:1px solid #DDD;border-left:none;font-weight:normal;height:100%;left:123px;padding:0 3px;position:absolute;top:-1px;line-height:18px}
+.cashier-bank-fq .icon-info{background-color:#ffdfbd}
+.long-logo .cashier-bank-kt .icon-box,.long-logo .cashier-credit-kt .icon-box{background:#fff}
+
+.long-logo .icon-right{width:21px}
+.long-logo .icon-box,.long-logo .icon-box-commend,.long-logo .icon-box-kj{width:190px}
+.long-logo .xbox .ui-list-icons li{margin-right:10px}
+.long-logo .qiye{left:173px}
+.loading-main{margin:100px auto 200px;width:240px}
+.loading-main img,.loading-main span,.loading-main a{vertical-align:middle}
+.loading-main span{margin:auto 10px}
+.cashier-bank-kj .icon-info,.cashier-bank-kj-NO .icon-info{background-position:0 -380px;background-color:#FFF;height:22px;width:17px;left:115px;top:-9px;text-indent:-9999px;border:0}
+.cashier-bank-fq .current .icon-info,.cashier-bank-qy .current .icon-info,.cashier-bank-kj .current .icon-info,.cashier-bank-kj-NO .current .icon-info{border-color:#f60}
+.icon-box em{padding-left:3px;padding-right:3px}
+.icon-box .icon-info{letter-spacing:0}
+.icon-box .icon-box-cash-info{text-align:center}
+.icon-box-kj .icon{background:url("https://i.alipayobjects.com/e/201310/1LAFpg27oz.png") no-repeat scroll 0 3px #fff}
+.icon-box-top{top:5px}
+.icon-box-kIcon{background-color:transparent;border:0;vertical-align:middle;width:100%;padding-bottom:10px}
+.icon-box-kIcon .KuaiIcon{float:left;width:106px;height:26px;margin-top:-6px}
+.icon-box-kIcon .KuaiIconY{float:left;width:71px;height:26px;margin-top:4px;margin-left:5px}
+.icon-box-kIcon .KuaiIconY{text-indent:-999px}
+.icon-box-kIcon .icon-box-kIcon-explain{line-height:26px}
+.icon-box-kIcon-explain span{float:left}
+.icon-box-kIcon .kuaiIconWords{float:left;width:106px;height:12px;line-height:26px;margin-top:15px;margin-right:15px}
+.icon-discount,.icon-point,.icon-fluency,.icon-backprofit,.icon-discount-orange{height:20px;width:22px;line-height:30px;float:left;margin-top:5px;margin-right:5px}
+.ui-poptip-kuai{float:left;margin-right:10px;z-index:101;zoom:1}
+.ui-poptip-kuai .ui-poptip-container{float:left;background-color:#fff;border:1px solid #bbcbef;position:relative;zoom:1;_display:inline}
+.ui-poptip-kuai .ui-poptip-content{float:left;line-height:30px;padding:0 10px;font-size:12px}
+.ui-list-icons .icon-box{left:3px;cursor:pointer}
+.ui-list-icons .current,.ui-list-icons .hover{border-color:#fa3!important}
+.healthy{display:none}
+.ui-list-icons .current .healthy{display:block}
+.icon-box:hover .healthy{display:block}
+.icon-box:hover{border-color:#fa3!important}
+.ui-list-icons li.more{text-align:center}
+.ui-list-icons li.more a{display:block;outline:0}
+.ui-list-icons li.more b{display:block;height:12px;margin:0 auto;width:14px;height:8px;font-size:0}
+.ui-list-tip{margin-bottom:5px;padding-bottom:5px;display:block;color:#888;text-align:right;border-bottom:1px dashed #ccc}
+.long-logo .ui-list-icons li{width:218px;padding-right:10px;display:inline}
+.long-logo .ui-list-icons .icon-box{*left:0}
+.long-logo .icon-box,.long-logo .icon-box-commend,.long-logo .icon-box-kj{width:190px;background-color:#fff!important;line-height:36px}
+.long-logo .bank-num{float:right;padding-top:8px}
+.long-logo-reset .ui-four-icons{margin-left:30px;margin-top:-30px;*margin-top:-20px}
+.long-logo .icon-box .icon,.long-logo .icon-box-commend .icon,.long-logo .icon-box-kj .icon{float:left;width:126px;padding:0}
+.long-logo .icon-right{float:right;width:15px;margin:0 3px;height:100%;color:#07f;font-weight:bold;overflow:hidden;white-space:nowrap}
+@media screen and (-webkit-min-device-pixel-ratio:0){.long-logo .icon-right{margin:0 0 0 1px}
+}
+.long-logo .fenqi{background:url('https://i.alipayobjects.com/e/201203/2lEu9F9RWN.png') no-repeat scroll 0 center;text-indent:-9999px}
+.long-logo .back170{margin-left:-170px}
+.long-logo .xbox .ui-list-icons{margin-left:20px;*margin-top:10px}
+.long-logo .xbox .ui-list-icons li{margin-right:20px}
+.long-logo-btn{padding:20px 5px 20px 170px;_padding:20px 5px 20px 170px;background-color:#f4f6fc;border-top:1px solid #e6e8f0}
+.long-logo-btn .ui-btn-ok,.long-logo-btn .ui-fm-explain{margin-left:-150px}
+.long-logo .xbox .ui-list-tip{margin-left:0}
+.icon-box,.icon-box-commend,.icon-box-kj{width:126px;border:1px solid #ddd;vertical-align:middle;position:relative;display:inline-block;background-color:#eee}
+.icon-box .icon-cardNo{font-size:11px;-webkit-text-size-adjust:none}
+.icon-box .icon,.icon-box-commend .icon,.icon-box-kj .icon{display:block;height:36px;line-height:30px;background-repeat:no-repeat;padding:0 10px;color:#07f;font-weight:bold;white-space:nowrap;overflow:hidden;position:relative;z-index:1}
+.icon-box .icon-title,.icon-box .icon-title{z-index:2}
+.icon-box .bank-name,.icon-box-commend .bank-name,.icon-box-kj .bank-name{position:absolute;left:5px;z-index:0;height:36px;width:121px;overflow:hidden}
+.icon-box-commend{top:-1px;border-right:0;margin-left:5px}
+.icon-box-kj{top:-1px;border-left:none;margin-right:5px;width:145px}
+.icon-box-kj .icon{text-indent:-9999px!important;text-align:left}
+.no-cartoon{width:88px;margin-left:-100px}
+.no-cartoon .colon{right:-10px}
+.point,.inline-icon .pcard,.inline-icon .point,.inline-icon .pcard,.ico-promotion-detail,.installment-support,#order .bao_logo,.inline-icon .moneyFund,.icon-box-kIcon .KuaiIconY,.icon-box-kIcon .kuaiIconWords,.icon-discount,.icon-point,.icon-fluency,.icon-backprofit,.icon-discount-orange{background:url("https://i.alipayobjects.com/e/201311/1ZkUma2tsL.png") 999px 999px no-repeat}
+#header .logo{background-position:0 0}
+.icon-box-kIcon .KuaiIconY{background-position:0 -616px}
+.icon-box-kIcon .kuaiIconWords{background-position:0 -656px}
+.icon-discount{background-position:-40px -680px}.icon-box{width:160px}
+.icon-box .icon-box-sparkling{position:absolute;top:-18px;left:0;height:14px;line-height:14px}
+.icon-box .action-rt,.discount-list .action-rt,.action-rt{line-height:14px;height:14px;font-size:12px!important;background-color:#fff!important;border:1px solid #1e73c1;color:#1e73c1;margin-right:2px;display:inline-block;zoom:1}
+.icon-box{display:inline-block}.icon-box{width:160px}
+.bank-tip{font-size:13px}
+.ui-fm-item:after{clear:both;content:'.';display:block;height:0;visibility:hidden}
+.ui-fm-item{padding:0 5px 15px 170px;*padding:0 5px 12px 170px;_padding:0 5px 13px 170px;zoom:1}
+.ui-fm-item{padding-bottom:8px;padding-left:143px}
+.ui-fm-explain{padding:3px 0 0;padding:5px 0 0\9;_padding-top:3px;*margin-top:-1px;_margin-left:3px;font-size:12px;color:#b2b2b2}
+.ui-fm-other{_display:inline-block;margin-left:4px}
+
+.ui-fm-hover .ui-input,.ui-fm-hover .ui-textarea{border:1px #727272 solid}
+.ui-fm-focus .ui-input,.ui-fm-focus .ui-textarea{border:1px #68acff solid;outline:1px aqua solid;*padding:3px 0 3px 2px;*border:2px #95ddff solid;cursor:text}
+.ui-fm-focus .ui-textarea{*padding:1px 0 1px 2px}
+.ui-fm-error .ui-input,.ui-fm-error .ui-textarea{border:1px #f00 solid;color:#ff5243}
+.ui-fm-error .ui-input-reset{border:1px #9c9c9c solid;color:#000}
+.ui-fm-info .ui-fm-explain,.ui-fm-error .ui-fm-explain,.ui-fm-warn .ui-fm-explain{background-image:url(https://i.alipayobjects.com/e/201208/3JRI1gkfUX.png);background-repeat:no-repeat;padding-left:20px;*zoom:1}
+.ui-fm-info .ui-fm-explain{color:#4d4d4d;background-position:-160px -38px}
+.ui-fm-error .ui-fm-explain{color:#ff5243;background-position:-186px 6px}
+.ui-fm-warn .ui-fm-explain{background-position:-138px -80px}
+.ui-fm-error .ui-input:hover,.ui-fm-error .ui-textarea:hover{border:1px #727272 solid;color:#727272}
+.ui-fm-error .ui-input:focus,.ui-fm-error .ui-textarea:focus{border:1px #68acff solid;color:#727272}
+.ui-btn{display:-moz-inline-box;display:inline-block;*display:inline;vertical-align:middle;line-height:100%;text-align:left;font-size:12px;text-decoration:none;cursor:pointer;zoom:1}
+.ui-btn,.ui-btn .ui-btn-text{font-family:Tahoma;cursor:pointer;outline:0}
+.ui-btn{font-family:SimSun}
+.ui-btn:hover{text-decoration:none}
+.ui-btn .ui-btn-text{border:0;*border:0;*overflow:visible}
+body .ui-btn .ui-btn-text{vertical-align:baseline}
+.ui-btn span,.ui-btn:hover span{display:block;float:left;text-decoration:none}
+.ui-btn-ok,.ui-btn-ok-hover,.ui-btn-cancel,.ui-btn-ok-disabled,.ui-btn button{font-size:14px}
+.ui-btn-ok{background-position:0 0}
+.ui-btn-ok-disabled{background-position:0 -103px}
+.ui-btn-cancel{background-position:0 -103px}
+.ui-btn-ok .ui-btn-text,.ui-btn-ok-hover .ui-btn-text,.ui-btn-cancel .ui-btn-text,.ui-btn-ok-disabled .ui-btn-text{padding:0 16px;padding-bottom:3px;*padding-bottom:0;height:31px;line-height:31px;font-weight:bold;color:#fff}
+.ui-btn-ok span.ui-btn-text,.ui-btn-ok-hover span.ui-btn-text,.ui-btn-ok-hover:hover span.ui-btn-text,.ui-btn-cancel span.ui-btn-text{padding-bottom:3px;_padding-bottom:1px;_line-height:28px;height:25px;*height:26px}
+.ui-btn-ok-hover,.ui-btn-ok-hover:hover{text-decoration:none}
+.ui-btn-ok-disabled .ui-btn-text{background:#ccc none;cursor:default}
+.ui-btn-ok-mini,.ui-btn-cancel-mini{padding:1px}
+.ui-btn-ok-mini{border:1px #d74c00 solid;background-position:0 -10px}
+.ui-btn-cancel-mini,.ui-btn-cancel-mini{background-position:0 -103px;color:#5b5b5b;border:1px #bcbcbc solid;*margin-left:3px}
+.ui-btn-ok-mini .ui-btn-text,.ui-btn-cancel-mini .ui-btn-text{padding:0 9px;height:20px;line-height:20px;color:#fff}
+.ui-btn-ok-mini,.ui-btn-ok-mini{background-position:0 -15px}
+.ui-btn-ok-mini .ui-btn-text{background-position:0 -75px}
+.ui-btn-ok-mini:hover,.ui-btn-ok-mini-hover{border:1px solid #e47000}
+.ui-btn-ok-mini:hover .ui-btn-text,.ui-btn-ok-mini-hover .ui-btn-text{background-position:0 -518px}
+.ui-btn-cancel-mini .ui-btn-text{background-position:0 -312px;color:#5b5b5b}
+.ui-btn-ok-mini span.ui-btn-text,.ui-btn-cancel-mini span.ui-btn-text{line-height:21px}
+.ui-btn-cancel-mini:hover,.ui-btn-cancel-mini:hover{border:1px solid #6e6e6e}
+.ui-btn-cancel-mini:hover .ui-btn-text,.ui-btn-cancel-mini-hover .ui-btn-text{background-position:0 -110px}
+.ui-btn-ok-hover,.ui-btn-ok-hover:hover,.ui-btn-cancel:hover,.ui-btn-ok-mini:hover,.ui-btn-ok-mini-hover:hover,.ui-btn-cancel:hover,.ui-btn-cancel-mini:hover,.ui-btn-cancel-mini-hover:hover{text-decoration:none}
+.ui-btn-fixed,.ui-btn-4cn,.ui-btn-2cn{display:-moz-inline-box;display:inline-block;*zoom:1;*display:inline;padding:0 0 2px 0;*padding:0;height:19px;*height:21px;line-height:19px line-height:22px\9;_line-height:19px;vertical-align:middle;background:transparent url(https://i.alipayobjects.com/e/201310/1L9TYvZkP7.png) 0 -336px no-repeat;border:0;font-size:12px;text-align:center;color:#4d4d4d;cursor:pointer}
+input.ui-btn-fixed,input.ui-btn-4cn,input.ui-btn-2cn,button.ui-btn-fixed,button.ui-btn-4cn,button.ui-btn-2cn{height:21px}
+.ui-btn-fixed:hover,.ui-btn-2cn:hover,.ui-btn-4cn:hover{text-decoration:none;color:#4d4d4d}
+.ui-btn-fixed{width:45px}
+.ui-btn-4cn{width:66px;background-position:-53px -336px}
+.ui-btn-2cn{width:36px;background-position:-128px -336px}
+.ui-btn-fixed-hover,.ui-btn-fixed:hover{background-position:0 -612px}
+.ui-btn-4cn-hover,.ui-btn-4cn:hover{background-position:-53px -612px}
+.ui-btn-2cn-hover,.ui-btn-2cn:hover{background-position:-128px -612px}
+.ui-round-btn{display:-moz-inline-box;display:inline-block;*display:inline;vertical-align:middle;line-height:100%;text-align:left;font-size:12px;zoom:1}
+.ui-round-btn,.ui-round-btn-text{background:transparent url("https://i.alipayobjects.com/e/201204/30OeDv1YgM.png") no-repeat;border:0;*border:0;cursor:pointer;text-decoration:none;_vertical-align:baseline}
+.ui-round-btn:hover{text-decoration:none}
+.ui-round-btn span.ui-round-btn-text{display:block;float:left;background-position:right -519px}
+.ui-round-btn-text{height:27px;line-height:27px;padding:0 7px;*overflow:visible;background-position:right -519px;color:#4d4d4d;font-weight:700}
+.ui-round-btn{background-position:0 -435px}
+.ui-round-btn:hover,.ui-round-btn-hover{background-position:0 -404px}
+.ui-round-btn:hover .ui-round-btn-text,.ui-round-btn-hover .ui-round-btn-text{background-position:right -488px}
+.ui-round-btn-state-disabled,.ui-round-btn-state-disabled:hover{background-position:0 -404px;cursor:default}
+.ui-round-btn-state-disabled .ui-round-btn-text,.ui-round-btn-state-disabled:hover .ui-round-btn-text{background-position:right -488px;color:#999;cursor:default}
+.ui-round-btn-mini .ui-round-btn-text{height:21px;line-height:21px;font-family:Simsun;padding:0 6px}
+.ui-round-btn-mini{background-position:0 -200px}
+.ui-round-btn-mini .ui-round-btn-text{background-position:right -287px;color:#4d4d4d;font-weight:500}
+.ui-round-btn-mini:hover,.ui-round-btn-mini-hover{background-position:0 -638px}
+.ui-round-btn-mini:hover .ui-round-btn-text,.ui-round-btn-mini-hover .ui-round-btn-text{background-position:right -664px}.ui-list-icons li.more b{background-position:-150px -35px}
+.ui-btn-ok{background-position:0 -163px;background-repeat:repeat-x}
+.ui-btn-ok:hover,.ui-btn-ok-hover{background-position:0 -196px}
+.ui-btn-ok .ui-btn-text{background-position:right -99px;background-repeat:repeat-x}
+.ui-btn-cancel .ui-btn-text{background-position:right -67px;color:#fff}
+.ui-btn-ok-hover .ui-btn-text,.ui-btn-ok:hover .ui-btn-text{background-position:right -131px;background-repeat:repeat-x}
+.ui-btn-cancel{background-position:0 -228px;background-repeat:repeat-x}
+.ui-faq dt{background-position:-162px -36px}.ui-icon-arrow-cashier,.ui-btn-ok .ui-btn-text,.ui-btn-ok,.hook,.ui-round-mini-btn,.ui-btn-ok-hover,.ui-btn-ok-hover .ui-btn-text,.ui-btn-cancel .ui-btn-text,.ui-faq dt,.ui-fm-error .ui-fm-icon,.ui-fm-forbidden .ui-fm-icon,.ui-fm-success .ui-fm-icon,.ui-fm-warn .ui-fm-icon,.ui-icon-arrow-cashier,.ui-icon-tip,.ui-btn-cancel,.member-security-icon,.ui-list-icons li.more b,.ui-notice .ui-icon-notice,.ui-state-error .ui-tip-icon,.ui-state-forbidden .ui-tip-icon,.ui-state-info .ui-tip-icon,.ui-state-success .ui-tip-icon,.ui-state-warn .ui-tip-icon,.ui-tip-error .ui-tip-icon,.ui-tip-forbidden .ui-tip-icon,.ui-tip-info .ui-tip-icon,.ui-tip-success .ui-tip-icon,.ui-tip-warn .ui-tip-icon,.ui-tips-cashier .ui-icon,.member,.ui-xbox-action b,.ui-round-btn-more .more,.ui-round-btn-add .add,.ui-area-shrink,.ui-area-expand,.ui-round-btn-add,.ui-round-btn-text,.ui-round-btn-more .expand,.ui-round-btn-more .shrink,.preferential,.express-logo2,#order .bao_logo,.busy .icon,.repair .icon,.repair2 .icon,.repair3 .icon,.restricted .icon,.inline-icon #header .logo .cashier-logo{background-position:-70px -35px;_background-position:-70px -34px}.ui-table table{width:100%;border:1px solid #c8c8c8;border-width:0 1px 1px 0;background:#fff}
+.ui-table caption{font-weight:bold;padding:3px 0 5px 2px}
+.ui-table td,.ui-table th{padding:3px 5px;border:1px solid #c8c8c8;border-width:1px 0 0 1px}
+.ui-table thead th{font-size:12px;background:#e9e9e9}
+.ui-table-align-right{text-align:right}
+.ui-table-detail{width:570px}
+.ui-table-detail .first{width:140px;font-size:14px;text-align:right}
+.ui-table-detail tfoot td{background:#ebebec}
+.ui-table-no-grid{border-bottom:1px solid #ededed}
+.ui-table-no-grid table{border:0}
+.ui-table-no-grid thead th,.ui-table-no-grid td,.ui-table-no-grid td{border:1px solid #ededed;border-width:0 0 1px}
+.ui-table-no-grid thead th{border-color:#d2d2d2}
+.ui-table-no-grid .split{background:#f3f3f3}
+.ui-table-radius table{border-width:0 0 1px;border-collapse:separate\0}
+.ui-table-radius caption{padding-bottom:10px;font:700 14px/17px Simsun;color:#333}
+.ui-table-radius thead th{padding:0;height:23px;text-indent:10px;border-width:0 0 0 1px}
+.ui-table-radius thead .first{background-position:0 0;border:0}
+.ui-table-radius thead .last{background-position:right -46px}
+.ui-table-radius thead th span{display:block;height:100%;line-height:23px;margin-left:1px}
+.ui-table-radius thead .first span{margin-left:2px}
+.ui-table-radius thead .last span{background-position:0 -382px;margin-right:2px}
+.ui-table-radius tbody th,.ui-table-radius td{padding:7px 10px;word-break:break-all}
+.ui-table-radius tbody th{font-weight:700}
+.ui-table-radius td.last{border-width:1px 1px 0 1px}
+.ui-fm-far-col{margin-left:239px}
+.no-splitline{border:0}
+.font-orange{color:#f60;font-size:12px}
+.fn-hide-vi{visibility:hidden}
+.ui-expiredate-tip{position:relative}
+.m-cue{background:url("https://i.alipayobjects.com/e/201204/30OeDv1YgM.png") no-repeat scroll 0 0 transparent;padding-left:18px;background-position:-70px -301px;border:0 none;font-size:12px;margin:0;padding-bottom:5px;float:left;height:15px}
+.tb-inner{zoom:1;margin-bottom:15px}
+.tb-inner table{border-right:1px solid #c8c8c8;border-bottom:1px solid #c8c8c8;background:#fff}
+.fm-input .tb-inner a{padding-left:0}
+.tb-inner caption{padding:3px 0 5px 2px}
+.tb-inner td,.tb-inner thead th{border-top:1px solid #c8c8c8;border-left:1px solid #c8c8c8;padding:3px 5px;font-family:Simsun}
+.tb-inner thead th{font-size:12px;background:#e9e9e9;vertical-align:baseline}
+.tb-inner .action{position:absolute;top:3px;right:0}
+.xbox .tb-inner{border:1px #b4b4b4 solid;border-width:1px 0 0 1px}
+.xbox .tb-inner table{width:auto;border:0}
+.xbox .tb-bank-intro{margin-top:10px;border-width:0 0 1px 0}
+.xbox .tb-bank-intro td,.xbox .tb-bank-intro th{border-right:1px solid #b4b4b4}
+.xbox .tb-bank-intro table{width:100%;border:0}
+.tb-bank-intro th{text-align:left}
+.tb-bank-intro thead th{vertical-align:middle;background:#e7e7e7;color:#000}
+.tb-bank-intro thead td{background:#e7e7e7}
+.tb-bank-intro .first{white-space:nowrap}
+.bank-tip{font-size:13px}
+.bank-phone{margin:5px 0 10px 0}
+
+.ui-fm-item {
+	margin-top:20px;}
+
+.tb-inner tb-bank-intro{
+	margin-top:30px;
+}
+
+.bank-tip{
+	margin-top:20px;
+	font-size:14px;
+	padding-bottom:10px;
+	color:#8F8F8F;
+}
+.ui-btn-text{
+	background-color:#f98600 ;
+	font-size:16px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.ui-btn-text:hover{
+	background-color:#fd6c00;
+}
+.lvse {
+	color:#02daaf !important;
+}
+.huangse {
+	color:#0080FF !important;
+}

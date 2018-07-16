@@ -1,0 +1,153 @@
+
+/*Page style*/
+
+#container{width:581px;padding:10px;margin:0 auto;position:relative;z-index:0;}
+#container .btnbox{text-align:center;height:42px;width:900px;}
+#container .btnbox a{font-size:16px;margin:20px;}
+.scrolltitle{height:24px;font-size:14px;font-weight:800;border-bottom:solid 1px #ddd;margin:20px 0 15px 0;}
+
+/*Anchors*/
+a:link,a:visited{color:#599100;text-decoration:none;}
+a:hover,a:active{color:#599100;text-decoration:underline;}
+
+
+
+
+
+/*------------------------------- 自己看着办 -------------------------------*/
+/* example */
+#example{width:580px;height:200px;position:relative;}
+#ribbon{position:absolute;top:-3px;left:-15px;z-index:500;}
+#frame{position:absolute;z-index:0;width:839px;height:341px;top:-3px;left:-80px;}
+/* Slideshow */
+#slides{position:absolute;left:4px;z-index:100;}
+.slides_container{width:820px;overflow:hidden;position:relative;display:none;}
+.slides_container div.slide{width:820px;height:270px;display:block;}
+/* Next/prev buttons */
+
+/* Pagination */
+.pagination{margin:26px auto 0;width:100px;}
+.pagination li{float:left;margin:0 1px;list-style:none;}
+.pagination li a{display:block;width:12px;height:0;padding-top:12px;background-image:url(img/pagination.png);background-position:0 0;float:left;overflow:hidden;}
+.pagination li.current a{background-position:0 -12px;}
+/* Caption */
+.caption{z-index:500;position:absolute;bottom:-35px;left:0;height:30px;padding:5px 20px 0 20px;background:#000;background:rgba(0,0,0,.5);width:890px;font-size:1.3em;line-height:1.33;color:#fff;border-top:1px solid #000;text-shadow:none;}
+
+
+#page {
+	margin:0 auto;
+	padding-top:10px;
+	height:1000px;
+	padding-bottom:50px;
+	background-color:#efeff3;
+	overflow:auto;
+}
+
+.one_con{
+	width:1070px;
+	height:auto;
+	margin:0 auto;
+	overflow:auto;
+	padding-bottom:20px;
+}
+
+.left{
+	width:22%;
+	height:600px;
+	margin-right:1%;
+	float:left;
+	position:relative;
+
+	margin-top:10px;
+}
+
+.one_container{
+	margin:120px auto;
+	width:auto;
+	height:auto;
+	padding-bottom:150px;
+	overflow:auto;
+}
+
+
+.left_select{
+	background-color:#f9f9f9;
+	height:auto;
+	border:1px solid #dcdbdb;
+	margin-left:10px;
+	padding-bottom:20px;
+	
+}
+
+.left_select h1{
+	width:auto;
+	padding:10px;
+	font-weight:500;
+	font-size:18px;
+	border-top:4px solid #22cacc;
+	background-color:#eeeeee;
+	color:#666666;
+	
+}
+
+.tow_p{
+	padding:8px 25px;
+	font-weight:500;
+	font-size:14px;
+	border-left:4px solid #f9f9f9;
+}
+
+.tow_p:hover{
+	background-color:#eeeeee;
+	border-left:4px solid #22cacc;
+}
+
+.tow_p_focus{
+	background-color:#eeeeee;
+	border-left:4px solid  #22cacc;
+}
+
+
+/*sel*/
+
+.sel_free{
+	width:48%;
+	height:150px;
+	background-color:#22cacc;
+	float:left;
+	margin-right:4%;
+	color:#fff;
+	text-align:center;
+	line-height:145px;
+	font-size:34px;
+}
+
+
+.sel_pay{
+	width:48%;
+	height:150px;
+	background-color:#22cacc;
+	float:left;
+	color:#fff;
+	text-align:center;
+	line-height:145px;
+	font-size:34px;
+}
+
+.sel_hover a{
+	color:#fff;
+	text-decoration:none;
+	width:100%;
+	height:100%;
+	background-color:#22cacc;
+	float:left;
+	color:#fff;
+	text-align:center;
+	line-height:145px;
+	font-size:34px;
+}
+
+
+.sel_hover a:hover{
+	background-color:#22b5b7;
+}

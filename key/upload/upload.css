@@ -1,0 +1,114 @@
+/* CSS Document */
+#frame {
+	height:auto;
+	padding-bottom:50px;
+	background-color:#efeff3;
+	padding-top:20px;
+}
+
+#page {
+
+	height:auto;
+	background-color:#FFF;
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	overflow:auto;
+}
+#_21 {
+	float:left;
+	height:550px;
+	width:260px;
+	background-color:#F6F6F6;
+}
+#_22 {
+	float:left;
+}
+._2100 {
+	width:260px;
+	background-color:#F6F6F6;
+	height:15px;
+}
+._210 {
+	padding-top:10px;
+	padding-bottom:10px;
+	width:260px;
+	background-color:#F6F6F6;
+}
+.word {
+	margin-left:30px;
+}
+.little {
+	margin-left:30px;
+	font-size:12px;
+}
+._210:hover {
+	color:#FFF;
+	background-color:#22cacc;
+}
+._210:hover p {
+	color:#FFF;
+}
+._210:hover a:link {
+	color:#FFF;
+}
+._210:hover a:visited {
+	color:#FFF;
+}
+.jiantou {
+	margin-right:20px;
+	width:20px;
+	height:20px;
+	float:right;
+}
+._211 {
+	color:#666;
+	width:740px;
+}
+._2111 {
+	float:left;
+	width:650px;
+	padding:10px 0px 10px 0px;
+	border-bottom:1px solid #e5e5e8;
+	border-top:1px solid #e5e5e8;
+}
+._2110 {
+	height:50px;
+	float:left;
+	width:50px;
+}
+a:link {
+	color:#7D7D7D;
+}
+a:link:hover {
+	text-decoration:underline;
+	color:#22cacc;
+}
+a:visited {
+	color:#7D7D7D;
+}
+.word {
+	color:#22cacc;
+}
+.xiaoxiang {
+	display:block;
+	padding:5px;
+	width:120px;
+	margin-left:25px;
+	float:left;
+	margin-bottom:10px;
+	font-size:14px;
+}
+.tell {
+	background-color:#efeff3;
+	color:#22cacc;
+	text-align:center;
+}
+.tell1 {
+	padding-top:30px;
+	font-size:35px;
+}
+.tell2 {
+	padding-top:18px;
+	padding-bottom:25px;
+}

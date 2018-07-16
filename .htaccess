@@ -1,0 +1,8 @@
+RewriteEngine On
+Options -Indexes
+#RewriteCond %{HTTP_HOST} !^www.gephenom.com  [NC] 
+#RewriteRule   ^/(.*) http://www.gephenom.com/ [L]
+#RewriteRule ^examination/daxuekecheng3_([0-9]*).html$  /examination/video_topics.php?category=$1
+ErrorDocument 404  http://www.gephenom.com/404/index.html
+ErrorDocument 403  /index.php
+#RewriteRule ^phpmyadmin/(.*)  /index.php

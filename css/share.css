@@ -1,0 +1,9 @@
+@import "reset.css";
+@import url("nav.css");
+@import url("footer.css");
+@import url("font.css");
+/* CSS Document */
+
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; /* ie8  */
+    filter:alpha(opacity=90);    /* ie5-7  */
+    opacity: 0.90;    /* css standard, currently it works in most modern browsers  */

@@ -1,0 +1,284 @@
+/* CSS Document */
+
+/*导航条*/
+
+
+.logo{
+	width:auto;
+	margin:0 auto;
+	height:100px;
+}
+
+#nav{ margin:auto;
+background-color:#0CC;
+background-repeat:repeat;
+}
+
+#nav ul{
+	width:1060px;
+	margin:0 auto;
+    list-style:none;
+	overflow:auto;
+	background-color:#0CC;
+	background-repeat:repeat;
+	}
+	
+	
+#nav ul li{
+	float:left; 
+    margin-right:15px;
+	
+           }
+		   
+		   
+.logo{
+	width:1120px;
+	height:100px;
+	margin:0 auto;
+}
+
+.logo_container{
+	padding-left:10px;
+	padding-top:15px;
+	height:70px;
+	width:200px;
+	float:left;
+}
+
+
+.denglu_container{
+	width:200px;
+	height:50px;
+	padding-top:25px;
+	float:right;
+	margin-right:0px;
+}
+
+.denglu_container li{
+	 list-style:none;
+}
+
+.denglu_container li a{
+	 list-style:none;
+	 display:block;
+	font-size:16px;
+    font-weight:400;
+    text-decoration:none;
+	margin:0 10px;
+	color:#22b5b7;
+	
+}
+
+.denglu_container li a:hover,focus,linked{
+	text-decoration:none;
+	
+	
+}
+
+.denglu_container li a:focus,linked{
+	color:#22cacc; !important;
+	
+}
+
+
+#dengLu{
+	margin-top:15px;
+	margin-right:50px; !important;
+	float:right !important;
+}
+
+.zhuce{
+	margin-top:15px;
+	margin-left:25px; !important;
+}
+#nav ul li a{
+	display:block;
+	font-size:20px;
+    font-weight:400;
+    text-decoration:none;
+	float:left;
+	margin:0 5px; 
+    color:#fff;
+	padding:14px 14px;
+	
+			  }
+#nav ul li a:hover,focus,linked{
+	background-color:#22b5b7;
+}
+
+
+
+
+
+/* 登陆框*/
+
+#login_box{
+	background-color:#e5e5e8;
+	display:none;
+	height:310px;
+}
+
+
+
+.loginTitle{
+	height:40px;
+	width:320px;
+	padding-top:15px;
+	margin-left:10px;
+	background-color:#22cacc;
+	text-align:center;
+	color:#FFF;
+
+}
+
+.loginTitle p{
+	font-size:28px;
+}
+
+
+
+.loginTitle a{
+	display:block;
+	float:right;
+}
+
+.loginBiaoQian{
+	font-size:15px;
+	color:#9a9a9a;
+	padding-bottom:2px;
+	padding-left:5px;
+	
+}
+
+.loginTextUserName , .loginTextPassWord{
+	width:426px;
+	height:55px;
+	text-align:left;
+	padding-top:10px;
+	padding-left:20px;
+}
+
+
+
+.loginTextAdmin{
+	height:50px;
+	text-align:left;
+	padding:5px 20px;
+	
+}
+
+
+.loginSubmit{
+	width:350px;
+	height:60px;
+	text-align:left;
+	padding-left:20px;
+	float:left;
+
+}
+
+.loginInputText {
+	width:280px;
+	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+	float:left;
+	border:1px solid #e5e5e8;
+	font-size:16px;
+	padding:7px 9px;
+    
+
+}
+
+.loginInputText:focus{
+	border:1px solid #22cacc;
+}
+
+.loginInputTextAdmin{
+	width:100px;
+	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+	float:left;
+	border:1px solid #e5e5e8;
+	font-size:16px;
+	padding:7px 9px;
+}
+
+
+.loginInputTextAdmin:focus{
+	border:1px solid #22cacc;
+}
+
+.loginTextAdminLeft{
+	float:left;
+}
+
+
+.loginTextAdminRight{
+	padding-left:200px;
+	padding-top:22px;
+	
+}
+
+
+.loginInputSubmit{
+	width:125px;
+	height:40px;
+	background-color:#22cacc;
+	border:none;
+	font-size:20px;
+	color:#ffffff;
+	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+	float:left;
+	margin-top:10px;
+	margin-left:15px;
+
+	
+}
+
+.loginSubmit button{
+	margin-left:78px;
+	margin-top:10px;
+}
+
+.loginSubmit button:hover{
+	background-color:#0bba98;
+}
+
+
+
+
+
+.login_a{
+	width:120px;
+	float:left;
+	margin-top:20px;
+	margin-left:20px;
+}
+
+.login_a a{
+    color:#9a9a9a;
+}
+
+.login_a a:hover{
+	color:#000;
+}
+#kehuxinxi {
+	margin-left:15px;
+}
+
+
+
+.upload{
+	float:right;
+	margin-left:159px;
+	font-size:20px;
+    font-weight:400;
+    text-decoration:none;
+    color:#fff;
+	padding:14px 24px;
+	background-color:#22b5b7;
+}
